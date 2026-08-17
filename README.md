@@ -13,8 +13,8 @@
 █ breaking other weird things     █
 █ pretending this was intentional █
 ███████████████████████████████████
-```
 <sub>pretend that this is properly indented.</sub>
+```
 
 ### interests
 
