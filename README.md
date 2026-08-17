@@ -1,4 +1,4 @@
-# binayak
+# bnyk
 
 > ex-CS student.
 > currently making things I probably didn't need to make.
